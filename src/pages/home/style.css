@@ -1,0 +1,58 @@
+.green-board {
+    margin-top: 118px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  /* width: 100%; */
+  height: 203px;
+  background: #51d249;
+}
+
+.title-omusical {
+  margin: 0;
+  color: #ffffff;
+  font-family: Impact;
+  font-size: 80px;
+  font-stretch: condensed;
+  text-align: center;
+  cursor: pointer;
+  transition: color 0.5s;
+}
+
+.title-omusical:hover{
+    color: #2A2828;
+    transition: color 0.5s;
+}
+
+.ytm-icon{
+    position: relative;
+  display: flex;
+  align-items: center;
+  /* margin: auto; */
+  width: 320px;
+  height: 320px;
+  cursor: pointer;
+  margin-top: -45px;
+  transition: 0.5s;
+}
+
+.ytm-icon:hover{
+    width: 330px;
+    height: 330px;
+    transition: 0.35s;
+}
+
+.list-path-letter{
+    text-decoration: none;
+}
+
+.list-path-svg{
+    border-radius: 800px;
+}
+
+.button-path-svg{
+    display: flex;
+    justify-content: center;
+}
+
