@@ -1,0 +1,33 @@
+.item-music-component {
+    width: 200px;
+    height: 200px;
+    margin: 50px 40px 40px 40px;
+    background-color: #2a2828;
+    text-align: center;
+    line-height: 200px;
+    font-size: 20px;
+    border-radius: 50%;
+    transition: 0.3s;
+  }
+
+  .item-music-component:hover{
+    width: 220px;
+    height: 220px;
+    margin: 60px;
+    background-color: #51d249;
+    transition: 0.3s;
+  }
+
+  .item-music-component p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #fff;
+    transition: 0.3s;
+  }
+  .item-music-component p:hover{
+    color: #2a2828;
+    transition: 0.3s;
+  }
+
+  a{
+    text-decoration: none;
+  }

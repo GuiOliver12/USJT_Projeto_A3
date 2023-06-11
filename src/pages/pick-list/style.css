@@ -1,0 +1,26 @@
+.list-board{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin: 0;
+}
+
+.green-board-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  height: 203px;
+  background: #51d249;
+}
+
+.title-omusical-static {
+    margin: 0;
+    color: #ffffff;
+    font-family: Impact;
+    font-size: 80px;
+    font-stretch: condensed;
+    text-align: center;
+  }
+
